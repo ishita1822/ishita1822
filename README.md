@@ -55,6 +55,10 @@ I’m passionate about building **scalable distributed systems**, exploring **sy
     <a href="https://getbootstrap.com/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> 
     </a>
+    <a href="https://www.jenkins.io/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+    </a>
+   
 </p>
 
 ---
