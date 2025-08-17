@@ -73,10 +73,10 @@ I’m passionate about building **scalable distributed systems**, exploring **sy
 
 <p align="left">
   
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ishita-patel-6b99191a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/ishita-patel-6b99191a7/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/your-leetcode-id" target="_blank">
+  <a href="https://leetcode.com/Ishita1822" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
   </a>
     <a href="https://www.codechef.com/users/ishita1822" target="_blank">
