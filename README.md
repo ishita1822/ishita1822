@@ -1,6 +1,6 @@
 # Hi, I'm Ishita 👋  
 
-💻 Backend Engineer | 🎓 BE in Computer Engineering | ⚡ 2+ Years Experience in Scalable Systems | 📚 Published Researcher | 🌍 Aspiring to Build Impactful Tech
+💻 Backend Engineer (Golang) | 🎓 BE in Computer Engineering | ⚡ 2+ Years Experience in Scalable Systems | 📚 Published Researcher | 🌍 Aspiring to Build Impactful Tech
 
 I’m passionate about building **scalable distributed systems**, exploring **system design**, and preparing for opportunities in **top product-based companies & global tech hubs**.  
 
@@ -14,8 +14,7 @@ I’m passionate about building **scalable distributed systems**, exploring **sy
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishita-patel-6b99191a7/) | [Email](ishitapatel0302@gmail.com)  
 ---
 
-### 🛠️ Tech Stack  
-<h3 align="left">🛠️ Languages & Tools:</h3>
+### 🛠️ Languages & Tools  
 <p align="left"> 
     <a href="https://isocpp.org/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> 
@@ -69,15 +68,23 @@ I’m passionate about building **scalable distributed systems**, exploring **sy
 <p align="left">
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ishita-patel-6b99191a7/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/your-leetcode-id" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
   </a>
+    <a href="https://www.codechef.com/users/ishita1822" target="_blank">
+        <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="CodeChef" width="48"/>
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/ishitapatel628/practice/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks"/>
+    </a>
+    <a href="https://codeforces.com/profile/Ishita18" target="_blank">
+        <img src="https://sta.codeforces.com/s/72249/images/codeforces-sponsored-by-ton.png" alt="Codeforces" width="48"/>
+    </a>
+
 </p>
 
 </p>
