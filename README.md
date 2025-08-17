@@ -15,21 +15,49 @@ I’m passionate about building **scalable distributed systems**, exploring **sy
 ---
 
 ### 🛠️ Tech Stack  
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="https://jupyter.org/" ><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
-    <a href="https://www.tensorflow.org/"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
-    <a></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.php.net/"><img src="https://img.icons8.com/officel/50/000000/php-logo.png"/></a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
+    <a href="https://isocpp.org/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> 
+    </a>
+    <a href="https://go.dev/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang"/> 
+    </a>
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 
+    </a>
+    <a href="https://www.java.com/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/> 
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/> 
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> 
+    </a>
+    <a href="https://redis.io/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/> 
+    </a>
+    <a href="https://www.docker.com/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/> 
+    </a>
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> 
+    </a> 
+    <a href="https://getbootstrap.com/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> 
+    </a>
 </p>
+
 ---
 
 ### 📊 GitHub Stats  
@@ -44,7 +72,6 @@ I’m passionate about building **scalable distributed systems**, exploring **sy
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/>
   </a>
-  <a></a>
   <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
